@@ -29,7 +29,7 @@
 
 ### Ansible
 - [Ansible 설치하기 (v2.9.2)](https://velog.io/@king/Ansible-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-v2.9.2) / [Install the latest Ansible v2.9.2 without id_rsa.pub , authorized_keys](https://qiita.com/leechungkyu/items/1b49a970e1facdc38d0a)
-- [Ansible 파일 마지막 변경 일자 확인하기](https://velog.io/@king/Ansible-%ED%8C%8C%EC%9D%BC-%EB%A7%88%EC%A7%80%EB%A7%89-%EB%B3%80%EA%B2%BD-%EC%9D%BC%EC%9E%90-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
+- [Ansible 파일 마지막 변경 일자 확인하기](https://velog.io/@king/Ansible-%ED%8C%8C%EC%9D%BC-%EB%A7%88%EC%A7%80%EB%A7%89-%EB%B3%80%EA%B2%BD-%EC%9D%BC%EC%9E%90-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) / [Checking File Last Change Date with Ansible](https://qiita.com/leechungkyu/items/de4dc3af1bbd800fb74d)
 
 ### Notion
 - [Notion API 로 Page,Todo 블록 만들기](https://velog.io/@king/Notion-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-TodoBlock-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-6pk58z0kqm) / [Create Page/Todo Block with Notion API](https://qiita.com/leechungkyu/items/cabc5a239ebd432afe0d)
