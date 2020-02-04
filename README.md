@@ -1,4 +1,5 @@
-> [velog](https://velog.io/)와 [qiita](https://qiita.com/)에 글을 쓰고 있습니다. (국문, 영문)
+> [velog](https://velog.io/)와 [qiita](https://qiita.com/)에 글을 쓰고 있습니다. (국문, 영문)  
+> [유튜브](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA?view_as=subscriber) 영상도 만들고 있습니다.
 
 ### Atlassian
 - [Confluence 첨부파일 점검하고 삭제하기](https://velog.io/@king/Confluence-%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC-%EC%A0%90%EA%B2%80%ED%95%98%EA%B3%A0-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) / [Check and Delete Confluence attachments](https://qiita.com/leechungkyu/items/9eeca3d6a8f11e3d368d)
