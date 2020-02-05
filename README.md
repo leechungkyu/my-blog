@@ -11,6 +11,7 @@
 
 ### JANDI
 - [WhaTap + JANDI URL 모니터링](https://velog.io/@king/WhaTap-JANDI-URL-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-58k5684rg4)
+- [JANDI x 파파고 연동하기 (예고편)](https://youtu.be/ULi7J8A9GK8)
 
 ### Feedly
 - [Register rss with api call to Feedly](https://velog.io/@king/Register-rss-with-api-call-to-Feedly-h7k58ecvlr)
@@ -34,3 +35,6 @@
 
 ### Notion
 - [Notion API 로 Page,Todo 블록 만들기](https://velog.io/@king/Notion-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-TodoBlock-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-6pk58z0kqm) / [Create Page/Todo Block with Notion API](https://qiita.com/leechungkyu/items/cabc5a239ebd432afe0d)
+
+### Automation
+- [puppeteer 사용해보기](https://velog.io/@king/puppeteer-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-dzk68koazq)
