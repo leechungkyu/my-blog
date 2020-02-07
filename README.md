@@ -17,7 +17,7 @@
 - [Register rss with api call to Feedly](https://velog.io/@king/Register-rss-with-api-call-to-Feedly-h7k58ecvlr)
 
 ### Docker
-- [사내 Docker Registry 만들기 (Nexus3 기반)](https://velog.io/@king/%EC%82%AC%EB%82%B4-Docker-Registry-%EB%A7%8C%EB%93%A4%EA%B8%B0-Nexus3-%EA%B8%B0%EB%B0%98-e9k69evm4a)
+- [사내 Docker Registry 만들기 (Nexus3 기반)](https://velog.io/@king/%EC%82%AC%EB%82%B4-Docker-Registry-%EB%A7%8C%EB%93%A4%EA%B8%B0-Nexus3-%EA%B8%B0%EB%B0%98-e9k69evm4a) / [Create Private Docker Registry (base on Nexus3)](https://qiita.com/leechungkyu/items/86cad0396cf95b3b6973)
 
 ### 생산성
 - [나중에 읽을 기사, 포켓(Pocket) 소개](https://velog.io/@king/Pocket-%EC%8D%A8%EB%B3%B4%EC%8B%9C%EC%A3%A0-xbk59d9nza)
