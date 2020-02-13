@@ -12,7 +12,7 @@
 ### JANDI
 - [WhaTap + JANDI URL 모니터링](https://velog.io/@king/WhaTap-JANDI-URL-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-58k5684rg4)
 - [JANDI x 파파고 연동하기 (예고편)](https://youtu.be/ULi7J8A9GK8)
-- [Feedly로 기술 블로그의 최신글을 모아서 볼 수 없을까? – 잔디에 기술 블로그 Lake 만들기](http://blog.jandi.com/ko/2020/02/11/feedly-and-jandi-blog-lake/)/ [Keep Up With All Tech Blog Updates With Feedly – Making Tech Blog Lake On The JANDI](http://blog.jandi.com/blog/2020/02/feedly-and-jandi/)
+- [Feedly로 기술 블로그의 최신글을 모아서 볼 수 없을까? – 잔디에 기술 블로그 Lake 만들기](http://blog.jandi.com/ko/2020/02/11/feedly-and-jandi-blog-lake/) / [Keep Up With All Tech Blog Updates With Feedly – Making Tech Blog Lake On The JANDI](http://blog.jandi.com/blog/2020/02/feedly-and-jandi/)
 
 ### Feedly
 - [Register rss with api call to Feedly](https://velog.io/@king/Register-rss-with-api-call-to-Feedly-h7k58ecvlr)
