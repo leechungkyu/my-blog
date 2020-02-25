@@ -27,6 +27,7 @@
 ### Git
 - [Git 저장소 복제 (부제: 쌍둥이 저장소 만들기)](https://velog.io/@king/Git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%B3%B5%EC%A0%9C-%EB%B6%80%EC%A0%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0-p6k5c7jkah) / [Creating Twin Repositories](https://qiita.com/leechungkyu/items/d2087d3cc85bc2b86a03)
 - [Github 저장소 API 호출로 삭제하기](https://velog.io/@king/Github-%EC%A0%80%EC%9E%A5%EC%86%8C-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+- [GitHub Actions으로 날씨알리미 만들기](https://qiita.com/leechungkyu/items/e57951cdaa046acafd76)
 
 ### SonarQube
 - [SonarQube7.9 설치하기 /w PostgreSQL (docker-compose)](https://velog.io/@king/SonarQube7.9-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-with-PostgreSQL-docker-compose-dgk56rd2db)
