@@ -6,10 +6,12 @@
 - [AUG Seoul 2019년 돌아보기](https://velog.io/@king/2019-12-31-1412-%EC%9E%91%EC%84%B1%EB%90%A8-vzk4tfv7kj)
 
 ### Jenkins
+- [동적 변수를 젠킨스 파라미터로 사용하기 (Extended Choice Parameter)](https://qiita.com/leechungkyu/items/9465d924747d0a170cd7)
 - [Jenkins Job 실행 원격으로 유발하기](https://velog.io/@king/Jenkins-Job-%EC%8B%A4%ED%96%89%EC%9D%84-%EC%9B%90%EA%B2%A9%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EB%B0%9C%ED%95%98%EA%B8%B0-nuk5jjenyk)
 - [Jenkins 설치하기 (docker 기반)](https://velog.io/@king/Jenkins-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-with-docker-ilk5j8g02g)
 
 ### JANDI
+- [구글 설문 참여자에게 문자 보내기](http://blog.jandi.com/ko/2020/04/28/%ea%b5%ac%ea%b8%80-%ec%84%a4%eb%ac%b8-%eb%ac%b8%ec%9e%90%eb%b3%b4%eb%82%b4%ea%b8%b0/)
 - [잔디 메시지 번역 봇 만들기 – 구글, 파파고 API 활용법](http://blog.jandi.com/ko/2020/02/26/jandi-translator/)
 - [Feedly로 기술 블로그의 최신글을 모아서 볼 수 없을까? – 잔디에 기술 블로그 Lake 만들기](http://blog.jandi.com/ko/2020/02/11/feedly-and-jandi-blog-lake/) / [Keep Up With All Tech Blog Updates With Feedly – Making Tech Blog Lake On The JANDI](http://blog.jandi.com/blog/2020/02/feedly-and-jandi/)
 - [WhaTap + JANDI URL 모니터링](https://velog.io/@king/WhaTap-JANDI-URL-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-58k5684rg4)
