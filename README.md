@@ -1,4 +1,4 @@
-> [velog](https://velog.io/)와 [qiita](https://qiita.com/)에 글을 쓰고 있습니다. (국문, 영문)  
+> [velog](https://velog.io/@king/)와 [qiita](https://qiita.com/leechungkyu)에 글을 쓰고 있습니다. (국문, 영문)  
 > [유튜브](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA/) 영상도 만들고 있습니다.
 
 ### Atlassian
