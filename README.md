@@ -17,6 +17,9 @@
 - [WhaTap + JANDI URL 모니터링](https://velog.io/@king/WhaTap-JANDI-URL-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-58k5684rg4)
 - [JANDI x 파파고 연동하기 (예고편)](https://youtu.be/ULi7J8A9GK8)
 
+### Slack
+- [사내 Slack의 인기 TOP30 이모티콘 조사하기](https://qiita.com/leechungkyu/items/e822d8836b465a334fc9)
+
 ### Feedly
 - [Register rss with api call to Feedly](https://velog.io/@king/Register-rss-with-api-call-to-Feedly-h7k58ecvlr)
 
