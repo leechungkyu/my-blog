@@ -19,19 +19,19 @@
 
 ### Slack
 - [사내 Slack의 인기 TOP30 이모티콘 조사하기](https://qiita.com/leechungkyu/items/e822d8836b465a334fc9)
+- [Slack에서 public link 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
 
 ### Feedly
 - [Register rss with api call to Feedly](https://velog.io/@king/Register-rss-with-api-call-to-Feedly-h7k58ecvlr)
 
 ### Docker
+- [GitHub Container Registry에 도커 이미지 Push 하기](https://qiita.com/leechungkyu/items/f95998506d45feb15393)
 - [Dockerfile 정적분석하기 (hadolint)](https://qiita.com/leechungkyu/items/50976861ae1faecaaafd)
 - [Podman 기본명령어 튜토리얼](https://qiita.com/leechungkyu/items/50c3d96a69239a7e4f7f)
 - [사내 Docker Registry 만들기 (Nexus3 기반)](https://velog.io/@king/%EC%82%AC%EB%82%B4-Docker-Registry-%EB%A7%8C%EB%93%A4%EA%B8%B0-Nexus3-%EA%B8%B0%EB%B0%98-e9k69evm4a) / [Create Private Docker Registry (base on Nexus3)](https://qiita.com/leechungkyu/items/86cad0396cf95b3b6973)
-- [GitHub Container Registry에 도커 이미지 Push 하기](https://qiita.com/leechungkyu/items/f95998506d45feb15393)
 
 ### 생산성
 - [나중에 읽을 기사, 포켓(Pocket) 소개](https://velog.io/@king/Pocket-%EC%8D%A8%EB%B3%B4%EC%8B%9C%EC%A3%A0-xbk59d9nza)
-- [Slack에서 public link 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
 
 ### Git
 - [GitHub Actions으로 날씨알리미 만들기](https://qiita.com/leechungkyu/items/e57951cdaa046acafd76)
