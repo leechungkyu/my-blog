@@ -6,6 +6,7 @@
 - [AUG Seoul 2019년 돌아보기](https://velog.io/@king/2019-12-31-1412-%EC%9E%91%EC%84%B1%EB%90%A8-vzk4tfv7kj)
 
 ### Jenkins
+- [최신 Git 커밋메시지 Jenkins 환경 변수로 저장하고, 다른 Job에 전달하기](https://qiita.com/leechungkyu/items/b3f75edef16373e17e63)
 - [동적 변수를 젠킨스 파라미터로 사용하기 (Extended Choice Parameter)](https://qiita.com/leechungkyu/items/9465d924747d0a170cd7)
 - [Jenkins Job 실행 원격으로 유발하기](https://velog.io/@king/Jenkins-Job-%EC%8B%A4%ED%96%89%EC%9D%84-%EC%9B%90%EA%B2%A9%EC%9C%BC%EB%A1%9C-%EC%9C%A0%EB%B0%9C%ED%95%98%EA%B8%B0-nuk5jjenyk)
 - [Jenkins 설치하기 (docker 기반)](https://velog.io/@king/Jenkins-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-with-docker-ilk5j8g02g)
