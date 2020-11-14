@@ -56,6 +56,9 @@
 ### Automation
 - [puppeteer 사용해보기](https://velog.io/@king/puppeteer-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-dzk68koazq)
 
+### GitLab
+- [JIRA Development 패널에 GitLab 연동하기](https://qiita.com/leechungkyu/items/ff82c3bcd2b7dd9e8a18)
+
 ### 인터넷 팁
 - [페이스북 링크 공유 시 수정본 미리보기 나오게 하기](https://qiita.com/leechungkyu/items/a46c40e8328be7a3836e)
 
