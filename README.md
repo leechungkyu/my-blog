@@ -59,6 +59,7 @@
 ### Google
 - [GAS로 구글 스프레드시트 데이터 이메일과 슬랙으로 보내기](https://qiita.com/leechungkyu/items/33884b0cbf1c7f95e0fe)
 - [GAS로 네이버 키워드 크롤링하고, 구글 스프레드시트에 저장하기](https://qiita.com/leechungkyu/items/0fc4bcced6cc8ed421a2)
+- [2분 주기로 Google Apps Script 실행하기](https://qiita.com/leechungkyu/items/d1130ae0b2fdff398f7c)
 
 ### Automation
 - [puppeteer 사용해보기](https://velog.io/@king/puppeteer-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-dzk68koazq)
