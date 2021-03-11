@@ -2,6 +2,7 @@
 > [유튜브](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA/) 영상도 만들고 있습니다.
 
 ### Atlassian
+- [Confluence 공간 전체 페이지 리스트 추출하기](https://qiita.com/leechungkyu/items/161e7bc2048e1680e59d)
 - [Confluence 첨부파일 점검하고 삭제하기](https://velog.io/@king/Confluence-%EC%B2%A8%EB%B6%80%ED%8C%8C%EC%9D%BC-%EC%A0%90%EA%B2%80%ED%95%98%EA%B3%A0-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) / [Check and Delete Confluence attachments](https://qiita.com/leechungkyu/items/9eeca3d6a8f11e3d368d)
 - [AUG Seoul 2019년 돌아보기](https://velog.io/@king/2019-12-31-1412-%EC%9E%91%EC%84%B1%EB%90%A8-vzk4tfv7kj)
 
@@ -32,6 +33,7 @@
 - [사내 Docker Registry 만들기 (Nexus3 기반)](https://velog.io/@king/%EC%82%AC%EB%82%B4-Docker-Registry-%EB%A7%8C%EB%93%A4%EA%B8%B0-Nexus3-%EA%B8%B0%EB%B0%98-e9k69evm4a) / [Create Private Docker Registry (base on Nexus3)](https://qiita.com/leechungkyu/items/86cad0396cf95b3b6973)
 
 ### 생산성
+- [curl을 사용하여 "IFTTT (Webhook)" 호출하는 방법](https://qiita.com/leechungkyu/items/73630642000f25d2850f)
 - [나중에 읽을 기사, 포켓(Pocket) 소개](https://velog.io/@king/Pocket-%EC%8D%A8%EB%B3%B4%EC%8B%9C%EC%A3%A0-xbk59d9nza)
 
 ### Git
